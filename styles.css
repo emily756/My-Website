@@ -1,0 +1,142 @@
+/* nav-section*/
+.active{
+    color:red !important;
+}
+
+a:hover{
+	color: white!important;
+	border: 1px solid yellow;
+	border-radius: 9px;
+	background-color: red;
+}
+
+a:link{
+	color: yellow!important;
+}
+
+a:visited{
+	color: white!important;
+}
+
+.btn{
+	color: white;
+
+}
+ .form{
+	border-radius: 9px;
+	border:  2px solid lightgrey;
+	padding: 15px;
+}
+
+/* contact-us-section*/
+.get-intouch{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 35px;
+}
+
+.cards{
+	margin-top: 80px;
+}
+
+/* main-page-section*/
+.types{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 5px;
+}
+.repeal{
+	padding-bottom: 50px;
+}
+
+.bg{
+	background-color:  #50C7C7;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	padding: 30px;
+
+ }
+
+ .stat{
+ 	background-color: #50C7C7;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-position: center;
+
+ }
+
+ .cards-types{
+ 	border: 1px solid black;
+ 	padding-bottom: 10px;
+ }
+/* about-us-section*/
+.about-img{
+	margin-top: 15px;
+}
+
+h4{
+	font-weight: bold;
+}
+
+/* program-section*/
+.cs{
+	box-shadow: 0 4px 8px 0 rgb(0, 0, 0, 0.1);
+	transition: 0.3s;
+	margin-left: 60px;
+}
+
+.cs:hover{
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.program{
+	background-image: linear-gradient(to left, steelblue, #020024 0%, #090979 15%, #00d4ff 100%);
+}
+
+/* footer-section*/
+footer{
+	position: static;
+	text-align: center;
+	width: 100%;
+	
+}
+.social ul, li{
+	list-style: none;
+	display: inline;
+	margin: 15px;
+	color: white;
+}
+.social{
+	padding: 45px;
+}
+
+.fa-twitter:hover{
+	color: #1DA1F2;
+}
+
+.fa-facebook:hover{
+	color: #1877F2;
+}
+
+.fa-google:hover{
+	color: #BEF78F;
+}
+
+.fa-instagram:hover{
+	color: #fccc63;
+}
+.footer{
+	margin-top: 70px;
+	background-color: black;
+}
+.paragraph-footer{
+	color: white;
+}
+.hr{
+	background-color: darkgray;
+}
+hr{
+	border: none;
+}
